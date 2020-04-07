@@ -1,0 +1,4 @@
+name: bTags
+version: 1.0
+main: me.doguinho.bTags.Main
+description: Plugin de tags
